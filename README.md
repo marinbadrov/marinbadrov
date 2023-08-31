@@ -2,4 +2,4 @@
 
 Just trying to learn and understand things about JS/TS. Probably other things too :) 
 
-Old github [marinqwe](https://github.com/marinqwe)
+[Old profile](https://github.com/marinqwe)
