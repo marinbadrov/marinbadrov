@@ -1,5 +1,5 @@
 ### Hey, I'm Marin
 
-Just trying to learn and understand things about JS/TS. Probably other things too :) 
+Currently focused on learning and understanding JS/TS :)
 
 [Old profile](https://github.com/marinqwe)
