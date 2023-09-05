@@ -1,5 +1,3 @@
-### Hey, I'm Marin
+Hello there!
 
-Currently focused on learning and understanding JS/TS :)
-
-[Old profile](https://github.com/marinqwe)
+I'm currently focused on learning and understanding JS/TS :)
